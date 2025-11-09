@@ -52,6 +52,15 @@
 - Text in this repo © authors, licensed **CC BY 4.0** (see `LICENSE`).  
 - Please cite with the CFF metadata in `CITATION.cff`.
 
+## 🔔 Current Status
+
+The public review of LBBS v0.1 is now open.
+
+👉 **Join the discussion here:**  
+https://github.com/huouer/LBBS-Standard/issues/1
+
+Please comment, ask questions, or propose changes in that thread before submitting detailed feedback.
+
 ## ⚠️ Disclaimer
 
 This is a community draft intended for discussion; it is not yet an adopted standard.
