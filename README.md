@@ -57,7 +57,7 @@
 The public review of LBBS v0.1 is now open.
 
 👉 **Join the discussion here:**  
-https://github.com/huouer/LBBS-Standard/issues/1
+https://github.com/huouer/LBBS-Standard/issues/2
 
 Please comment, ask questions, or propose changes in that thread before submitting detailed feedback.
 
